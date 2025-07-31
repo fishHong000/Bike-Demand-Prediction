@@ -19,9 +19,7 @@ Readme.txt：相關參數說明供同學參考
 
 二、作業要求
 
-  I. 參與 Kaggle 競賽
-  
-    ➢ https://www.kaggle.com/t/1dde80ad06d24d9a969e4e15a92c3ddc
+  I. 參與 Kaggle 競賽：https://www.kaggle.com/t/1dde80ad06d24d9a969e4e15a92c3ddc
     ➢ 請根據 train.csv 訓練模型，並預測 2012/11/1~2012/11/20 每天的總租借量。請將預測結果上傳至 Kaggle 作業競賽頁面 進行評分（使用 MSE 評分）。
     ➢ 繳交格式請參考 sample_submission.csv
     
